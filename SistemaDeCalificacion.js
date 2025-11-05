@@ -42,7 +42,6 @@ update(message) {
     }
 
 
-
 // Crear instancia del profesor (Subject)
 const profesor = new Profesor();
 
